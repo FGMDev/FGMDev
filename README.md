@@ -10,9 +10,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FGMDev&layout=compact&theme=compact"
   />
 </div>
-
-<style>
-  div{
-    text-align: center;
-  }
-</style>
